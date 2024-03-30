@@ -1,6 +1,6 @@
 # Maxcraft Product API
 
-- **Alex Greenberg**
+**Alex Greenberg**
 
 - **The Maxcraft Product API will help deliver the breadth of products availabe at Maxcraft, inc. These products have a type, size, image and price associated with them. Full CRUD will be available via routes below**
 
